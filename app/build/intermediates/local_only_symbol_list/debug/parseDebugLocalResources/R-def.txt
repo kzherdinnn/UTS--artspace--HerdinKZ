@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable girl_with_pearl_earring
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable persistence_of_memory
+drawable starry_night
+drawable the_scream
+id artArtist
+id artImage
+id artTitle
+id artYear
+id nextButton
+id previousButton
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string art_description
+style Theme.Artspace
+xml backup_rules
+xml data_extraction_rules
